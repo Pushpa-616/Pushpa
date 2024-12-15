@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 10px solid green;
+    height: 734px;
+    background-color: aqua;
+    background-image:url("https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg?t=st=1715769599~exp=1715773199~hmac=b58b2ec820499c9f95676e4506edc2592f5f58b11850174f3630d6953e12a6aa&w=740"); 
+    background-repeat: repeat; 
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+    /* background-position:top left ; */
+    /* background-position:top right ; */
+    /* background-position: top center; */
+    /* background-position: bottom left; */
+    /* background-position: bottom right; */
+    /* background-position: bottom center; */
+    /* background-position: center center; */
+    /* background-position: left; */
+    /* background-position: right; */
+    /* background-position: center; */
+    /* background-position: top; */
+    /* background-position: bottom; */
+    /* background-attachment: scroll; */
+    /* background-attachment: fixed; */
+    /* background-size: 1000px 600px; */
+    /* background-size: 1000px auto; */
+    /* background-size: 1000px 200px; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background: red url("https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg?t=st=1715769599~exp=1715773199~hmac=b58b2ec820499c9f95676e4506edc2592f5f58b11850174f3630d6953e12a6aa&w=740") no-repeat center fixed;  */
+}

@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+ /* div{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    position: relative;
+    top: 600px;
+    bottom: 400px;
+    left: 700px;
+    right: 500px; */
+    /* top: -200px; */
+ /* }  */
+ /* #parent{
+    height: 500px;
+    width: 900px;
+    background-color: darkgoldenrod;
+    margin: 50px;
+     position: relative; 
+ }
+ .child{
+    height: 200px;
+    width: 300px;
+    background-color: green;
+    border: 2px solid black;
+    /* position:absolute;
+    top:10px; */
+  /* } */  
+  /* #one{
+    background-color: blue;
+    position: absolute;
+    height: 150px;
+ }
+ #two{
+    background-color: brown;
+     position: absolute; 
+     height: 100px;
+ }
+ #three{
+    background-color: darkmagenta;
+ }   */
+ /* POSITION FIXED */
+ /* footer{
+    height: 300px;
+    width: 300px;
+    background-color: deeppink;
+    position: fixed;
+    top: 200px;
+    left: 600px;
+ } */
+ /* POSITION STICKY */
+ /* section{
+   height: 900px;
+   width: 1000px;
+   border: 3px solid green;
+ }
+ #one{
+   background-color: blue;
+ }
+ #two{
+   background-color: chocolate;
+ }
+  main{
+   height: 100px;
+   width: 100%;
+   background-color: brown;
+   position: sticky;
+   top:0px;
+ }  */
+ /* POSITION STATIC */
+/* nav{
+   height: 300px;
+   width: 300px;
+   background-color: brown;
+   position: static;
+   top: 50px;
+   left: 100px;
+} */
+/* Z-index */
+div{
+   height: 250px;
+   width: 250px;
+   border: 3px solid black;
+}
+img{
+   height: 100%;
+   width: 100%;
+}
+ /* #prabhas{
+   position: absolute;
+   z-index: ; 
+} 
+ #anushka{
+   position: absolute;
+   z-index: ; 
+} 
+#pallu{
+   position: absolute;
+   z-index: ;  #large num
+} */

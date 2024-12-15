@@ -1,0 +1,16 @@
+/* Descendent Selector */
+ /* div h1{
+    color:brown;
+}  */
+/* Child Selector */
+   /* div>p{
+    color:blue;
+}     */
+/* Adjacent Sibling */
+   /* h1+p{
+    color:brown;
+}   */
+/* General Sibling */
+  /* h1~p{
+    color:chartreuse;
+}    */

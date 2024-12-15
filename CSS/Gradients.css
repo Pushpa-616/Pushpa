@@ -1,0 +1,48 @@
+body{
+    /* border: 10px solid brown;   */
+    height: 720px;
+    /* background: linear-gradient(blue , pink , green , lightpink , red , deeppink , yellow ,hotpink);
+     background: linear-gradient(to bottom , orange , purple , aqua); 
+     background: linear-gradient(to top , orange , purple , aqua);
+    background: linear-gradient(to right , orange , purple , aqua);
+    background: linear-gradient(to left , orange , purple , aqua);
+    background: linear-gradient(to top left , orange , purple , aqua);
+    background: linear-gradient(to top right , orange , purple , aqua);
+    background: linear-gradient(to bottom left , orange , purple , aqua);
+    background: linear-gradient(to bottom right , orange , purple , aqua); */
+     /* background-image: linear-gradient(royalblue 0% 30% , white 30% 50% , greenyellow 50% 50%); 
+     background: repeating-linear-gradient(orange 0% 10% , white 10% 20% , green 20% 30%); 
+     background: repeating-linear-gradient(to bottom , orange 0% 10% , white 10% 20% , green 20% 30%); 
+    background: repeating-linear-gradient(to top , orange 0% 10% , white 10% 20% , green 20% 30%);
+    background: repeating-linear-gradient(to top left , orange 0% 10% , white 10% 20% , green 20% 30%);
+    background: repeating-linear-gradient(to top right , orange 0% 10% , white 10% 20% , green 20% 30%);
+    background: repeating-linear-gradient(to bottom right , orange 0% 10% , white 10% 20% , green 20% 30%);
+    background: repeating-linear-gradient(to bottom left , orange 0% 10% , white 10% 20% , green 20% 30%); */
+    /* background: radial-gradient(red,aqua,yellow); */
+    /* background: radial-gradient(circle,crimson,royalblue,yellow);
+    background: radial-gradient(ellipse,crimson,royalblue,yellow);
+    background: radial-gradient(circle,orange 0% 20% ,purple 20% 40%,green 40% 60%); */
+     /* background: repeating-radial-gradient(circle , black 0% 10% , aqua 10% 20% , magenta 20% 30%);  */
+     background: radial-gradient(black 0% 20%,aqua, magenta);
+    background: conic-gradient(red,green,yellow);
+    background: conic-gradient(red 0deg 10deg,green 10deg 20deg,yellow 20deg 30deg);
+     background: repeating-conic-gradient(red 0deg 10deg,green 10deg 20deg,yellow 20deg 30deg);   
+}
+ /* div{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    margin-left: 180px;
+    margin-top: 200px;
+    background: repeating-conic-gradient(orange 0deg 10deg , blue 10deg 20deg,black 20deg 30deg);
+    border-radius: 50%;
+    box-shadow: 30px 30px 50px white;
+    animation: rotate 5s linear 0s infinite;
+}
+@keyframes rotate{
+    from{
+        rotate:0deg;
+    }to{
+        rotate:360deg;
+    }
+}  */

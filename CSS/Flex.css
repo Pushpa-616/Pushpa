@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 700px;
+    width:800px;
+    background: yellow;
+/* Flex properties */
+display:flex;
+/* Flex direction properties */
+/* flex-direction: row; */
+flex-direction: column;
+/* flex-direction: column-reverse;
+flex-direction: row-reverse; */
+/* flex wrap properties */
+/* flex-wrap: nowrap; */
+flex-wrap: wrap;
+/* flex-wrap: wrap-reverse; */
+/* justify-content: flex-start;
+justify-content: start;
+justify-content: flex-end;
+justify-content: end; */
+/* justify-content: center; */
+/* justify-content: space-around;
+justify-content: space-between;
+justify-content: space-evenly;  */
+/* align-content: flex-start;
+align-content: start; */
+ /* align-content: center; */
+/* align-content: flex-end;
+align-content: end;  */
+/* column-gap: 20px;
+row-gap: 20px;
+gap: 50px; */
+}
+div{
+    /* height: 200px;
+    width: 200px; */
+    background-color: deeppink;
+    border: 3px solid black;
+    color: blue;
+    font-size: 30px;
+}
+#one{
+/* flex-basis: 30px; */
+flex-basis: 10%;
+}
+
+#two{
+/* flex-basis: 40px; */
+flex-basis: 70%;
+}
+
+#three{
+/* flex-basis: 50px; */
+flex-basis: 20%;
+}

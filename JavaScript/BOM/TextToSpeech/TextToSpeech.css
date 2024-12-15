@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:deeppink;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    height: 80px;
+    width: 500px;
+    margin: 20px 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}

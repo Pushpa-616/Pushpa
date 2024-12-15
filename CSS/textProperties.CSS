@@ -1,0 +1,47 @@
+h1{
+    text-align: left;
+    text-align: start;
+    text-align: right; 
+    text-align: end;
+    text-align: center;
+    text-decoration-line: none;
+    text-decoration-line:line-through ;
+    text-decoration-line:overline ;
+    text-decoration-line:underline ;
+    text-decoration-style: dashed;
+    text-decoration-style: dotted;
+    text-decoration-style: double;
+    text-decoration-style: solid;
+    text-decoration-style: wavy;
+    text-decoration-color: orangered;
+    text-decoration-color: rgb(143, 45, 67);
+    text-decoration-thickness: 7px;
+    text-decoration: overline 8px wavy deeppink;
+}
+p{
+    text-align-last: left;
+     text-align-last: start; 
+     text-align-last: right;              
+     text-align-last: end; 
+     text-align-last: center; 
+     text-align: justify;
+     text-transform: uppercase; 
+    text-transform: lowercase; 
+     text-transform: capitalize; 
+     text-indent: 10px; 
+     letter-spacing: normal; 
+     letter-spacing: 20px; 
+    word-spacing: normal; 
+     word-spacing: 20px;  
+}
+a{
+    text-decoration: none;
+}
+div{
+    text-decoration: underline;
+    line-height: normal;
+    line-height: 50px;
+}
+h2{
+    text-shadow: 10px -10px 5px red;
+}

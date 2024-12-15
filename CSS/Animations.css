@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+/* div{
+    border: 10px solid blue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    animation-name: love;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-direction: alternate;
+    animation-direction: alternate-reverse;
+}
+@keyframes love{
+    from{
+        font-size: 30px;
+    }to{
+        font-size: 500px;
+    }
+} */
+/* body{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    background-color: black;
+} */
+/* img{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    animation-name: hypnotize;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+@keyframes hypnotize{
+    from{
+        transform: rotate(0deg);
+    }to{
+        transform: rotate(360deg);
+    }
+} */
+/* Loading-animation */
+/* nav{
+    height: 500px;
+    width: 500px;
+    border: 10px solid white;
+    border-radius: 50%;
+    border-top-color: chartreuse;
+    animation: loading 2s ease 0s normal infinite;
+}
+@keyframes loading{
+    from{
+        rotate: 0deg;
+    }to{
+        rotate: 360deg;
+    }
+} */
+/* Color Change Animation */
+/* footer{
+    height: 100vh;
+    width: 100vw;
+    background-color: brown;
+    animation: colorChange 500ms ease 0s normal infinite;
+}
+@keyframes colorChange{
+    0%{
+        background-color: brown;
+    } 10%{
+        background-color: blue;
+    }20%{
+        background-color: chocolate;
+    }30%{
+        background-color: chartreuse;
+    }40%{
+        background-color: darkgreen;
+    }50%{
+        background-color: black;
+    }60%{
+        background-color: aqua;
+    }70%{
+        background-color: deeppink;
+    }80%{
+        background-color: darkslategrey;
+    }90%{
+        background-color: papayawhip;
+    }100%{
+        background-color: yellowgreen;
+    }
+} */
+#main-container{
+    height: 100vh;
+    width: 100vw;
+    
+}
+#img-container{
+    min-height: inherit;
+    min-width: inherit;
+    display: flex;
+}
+img{
+  height: 100vh;
+  min-width: 100vw;
+  animation: Slider 7s ease 0s alternate infinite;
+}
+@keyframes Slider{
+    0%{
+        transform: translateX(0%);
+    }25%{
+        transform: translateX(-100%);
+    }50%{
+        transform: translateX(-200%);
+    }75%{
+        transform: translateX(-300%);
+    }100%{
+        transform: translateX(-300%);
+    }
+}

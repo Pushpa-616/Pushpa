@@ -1,0 +1,30 @@
+/* [Attr] */
+  /* input[type]{
+    background-color: yellow;
+}   */
+ /* [Attr=value] */ 
+ /* input[type="password"]{
+    background-color: cyan;
+}  */
+/* [Attr~=value] */
+ /* h1[class~="hello"]{
+    color: blue;
+}  */
+/* [Attr|=value] */
+ /* h1[class|="hello"]{
+    color: chartreuse;
+}  */
+/* [Attr^=value */
+ /* h1[class^="hai"]{
+    color: chartreuse;
+}  */
+/* [Attr$="value"] */
+ /* h1[class$="hello"]{
+    color:chocolate;
+    background-color: cadetblue;
+}  */
+/*[ Attr*="value"] */
+ /* h1[class*="hai"]{
+    color:blue;
+    background-color: blanchedalmond;
+}  */

@@ -1,0 +1,9 @@
+img{
+    filter: blur(0);
+    filter:blur(4px);
+    filter:brightness(9); 
+    filter: grayscale(0.3);  
+    filter: opacity(1); 
+    filter: drop-shadow(10px 10px 5px red);  
+
+}

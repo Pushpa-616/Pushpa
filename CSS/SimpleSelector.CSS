@@ -1,0 +1,39 @@
+/* Id */
+ /* #Mallesh{
+    color:crimson;
+}
+ .value{
+    color:chartreuse;
+} 
+  #value{
+    color:blue;
+}     */
+/* Class */
+ /* .whatever{
+    color:brown;
+    background-color: aquamarine;
+}  
+ .something{
+    color:black;
+    background-color: red;
+}  */
+/* TagName */
+/* section{
+    color: azure;
+    background-color: brown;
+} 
+p{
+    color: blue;
+} */
+/* Grouping */
+   /* h1 , p , footer{
+    background-color: blue;
+   }
+ .hello , .hello , #bye{
+    background-color: brown;
+}     */
+/* Universal */
+  /* *{
+    background-color: blueviolet;
+    color:white;
+}     */

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    background-color: aqua;
+}
+h1{
+    border: 5px solid green;
+    /* display: inline; */
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+span{
+    border: 5px solid orangered;
+    /* display: block; */
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    padding: 30px;
+}
+div{
+    height: 300px;
+    width: 300px;
+    border: 10px solid black;
+    display:inline-block;
+}
+section{
+    height: 250px;
+    width: 250px;
+    border: 10px solid black;
+}
+#one{
+    background-color: chartreuse;
+}
+#two{
+    background-color: chocolate;
+    /* display: none;  */
+    visibility:hidden; 
+}
+#three{
+    background-color: cornflowerblue;
+}

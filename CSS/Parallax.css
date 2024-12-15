@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+    width: 100vw;
+    background-size: 100vh;
+    background-size: 100vw;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#one{
+    /* background-color: darkgreen; */
+    background-image: url(https://i.pinimg.com/originals/8b/d7/b6/8bd7b67e02fdfbe0ec875a8815d4bf26.jpg);
+}
+#two{
+    /* background-color: crimson; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxrTU9La1kup3d_-pghoUE2ZcltI1Iq8fdJw&s);
+}
+#three{
+    /* background-color: gold; */
+    background-image: url(https://i.pinimg.com/736x/d4/aa/b0/d4aab06e87dabf8ca2a409be3a553780.jpg);
+}
+#four{
+    /* background-color: deeppink; */
+    background-image: url(https://i.pinimg.com/736x/d4/aa/b0/d4aab06e87dabf8ca2a409be3a553780.jpg);
+}

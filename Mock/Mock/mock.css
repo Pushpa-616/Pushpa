@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#main_container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#box{
+    height: 400px;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
